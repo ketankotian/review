@@ -1,0 +1,5 @@
+Prime number 
+scanner : to take user input
+for loop : start with 2 - as all nos are divisible by 1
+count : to check if it is divisible in-between 
+if count==0 : it is prime
