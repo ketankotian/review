@@ -1,0 +1,5 @@
+Palindrome 
+scanner : take user input
+rev : stores reverse of number
+rem : remainder of number
+tmep : same value of user input , used to do operation on temp 
